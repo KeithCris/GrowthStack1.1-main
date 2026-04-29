@@ -1,0 +1,90 @@
+# Modular RAG MCP Server - Configuration (Example)
+# Copy to settings.yaml and fill in your API keys. Do not commit settings.yaml.
+
+# =============================================================================
+# LLM Configuration
+# =============================================================================
+llm:
+  provider: "deepseek"  # Options: openai, azure, ollama, deepseek
+  model: "deepseek-chat"
+  api_key: "<YOUR_DEEPSEEK_OR_OPENAI_API_KEY>"
+  temperature: 0.0
+  max_tokens: 4096
+
+# =============================================================================
+# Embedding Configuration
+# =============================================================================
+embedding:
+  provider: "ollama"  # Options: openai, azure, ollama
+  model: "nomic-embed-text"
+  base_url: "http://localhost:11434"
+  dimensions: 768
+
+# =============================================================================
+# Vision LLM Configuration (for Image Captioning)
+# =============================================================================
+vision_llm:
+  enabled: false
+  provider: "ollama"
+  model: "qwen3:4b"
+  base_url: "http://localhost:11434"
+  max_image_size: 2048
+
+# =============================================================================
+# Vector Store Configuration
+# =============================================================================
+vector_store:
+  provider: "chroma"
+  persist_directory: "./data/db/chroma"
+  collection_name: "knowledge_hub"
+
+# =============================================================================
+# Retrieval Configuration
+# =============================================================================
+retrieval:
+  dense_top_k: 20
+  sparse_top_k: 20
+  fusion_top_k: 10
+  rrf_k: 60
+
+# =============================================================================
+# Rerank Configuration
+# =============================================================================
+rerank:
+  enabled: true
+  provider: "cross_encoder"
+  model: "cross-encoder/ms-marco-MiniLM-L-6-v2"
+  top_k: 5
+
+# =============================================================================
+# Evaluation Configuration
+# =============================================================================
+evaluation:
+  enabled: false
+  provider: "custom"
+  metrics:
+    - "hit_rate"
+    - "mrr"
+    - "faithfulness"
+
+# =============================================================================
+# Observability Configuration
+# =============================================================================
+observability:
+  log_level: "INFO"
+  trace_enabled: true
+  trace_file: "./logs/traces.jsonl"
+  structured_logging: true
+
+# =============================================================================
+# Ingestion Configuration
+# =============================================================================
+ingestion:
+  chunk_size: 1000
+  chunk_overlap: 200
+  splitter: "recursive"
+  batch_size: 100
+  chunk_refiner:
+    use_llm: false
+  metadata_enricher:
+    use_llm: false

@@ -1,0 +1,7172 @@
+{
+  "metadata": {
+    "num_docs": 6,
+    "avg_doc_length": 239.66666666666666,
+    "total_terms": 362,
+    "collection": "default"
+  },
+  "index": {
+    "梁一恒": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "求职意向": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "数据": {
+      "idf": -2.5649493574615367,
+      "df": 6,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 7,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 8,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 3,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 7,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 8,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 3,
+          "doc_length": 92
+        }
+      ]
+    },
+    "分析师": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "运营": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 4,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 4,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "随时": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "2003": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "08": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        }
+      ]
+    },
+    "现居": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "广东": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "深圳": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "一周": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "至少": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "出勤": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "18739203292": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "1453498912": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "qq": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "com": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "微信": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "underen4596": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "教育": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        }
+      ]
+    },
+    "背景": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "香港浸会大学": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "数据分析": {
+      "idf": -2.5649493574615367,
+      "df": 6,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 5,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 5,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "人工智能": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "硕士": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "桂林": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "电子科技": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "大学": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "软件工程": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "本科": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "实习": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "经历": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "2025": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 4,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 4,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "09": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        }
+      ]
+    },
+    "2026": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "10": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "2021": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "06": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "高思": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "集团": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "实习生": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "中台组": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "2024": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        }
+      ]
+    },
+    "05": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "监控": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        }
+      ]
+    },
+    "体系": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        }
+      ]
+    },
+    "搭建": {
+      "idf": -2.5649493574615367,
+      "df": 6,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 3,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 3,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "负责": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "高中": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        }
+      ]
+    },
+    "业务": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        }
+      ]
+    },
+    "日报": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "周报": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        }
+      ]
+    },
+    "更新": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "每日": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "跟踪": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        }
+      ]
+    },
+    "招生": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 4,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 4,
+          "doc_length": 305
+        }
+      ]
+    },
+    "转化": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 6,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 6,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "用户": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 11,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 7,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 11,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 7,
+          "doc_length": 322
+        }
+      ]
+    },
+    "活跃": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        }
+      ]
+    },
+    "课程": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        }
+      ]
+    },
+    "完课": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "核心": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 4,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 4,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "指标": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 4,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 4,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "设计": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "可视化": {
+      "idf": -2.5649493574615367,
+      "df": 6,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        }
+      ]
+    },
+    "模板": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "清晰": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "展示": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "高三": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        }
+      ]
+    },
+    "拉新": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "趋势": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "暑期": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        }
+      ]
+    },
+    "策略": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "调整": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "提供数据": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "依据": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "分析": {
+      "idf": -2.5649493574615367,
+      "df": 6,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 9,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 7,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 9,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 7,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        }
+      ]
+    },
+    "聚焦": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "高考": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "学生": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "群体": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "行为": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "渠道": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        }
+      ]
+    },
+    "引流": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "试听": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "报名": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "流程": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "定期": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "增长": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "来源": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "发现": {
+      "idf": -2.5649493574615367,
+      "df": 6,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "线上": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "转化率": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "线下": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "15%": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "建议": {
+      "idf": -2.5649493574615367,
+      "df": 6,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "加大": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "数字": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "营销": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "投入": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "活动": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "效果": {
+      "idf": -2.5649493574615367,
+      "df": 6,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 3,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 3,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "协助": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "业务部门": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "优化": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "新策略": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "提升": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 5,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 5,
+          "doc_length": 322
+        }
+      ]
+    },
+    "效率": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "协同": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "洞察": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "汇报": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "每周": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "业务部": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "对接": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "需求": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "复杂": {
+      "idf": -2.5649493574615367,
+      "df": 6,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        }
+      ]
+    },
+    "问题": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "量化": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "框架": {
+      "idf": -2.5649493574615367,
+      "df": 6,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "识别": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "不同": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "区域": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        }
+      ]
+    },
+    "付费": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "意愿": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "差异": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "支持": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "差异化": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "项目": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "经验": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "基于": {
+      "idf": -2.5649493574615367,
+      "df": 6,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "抖音": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "视频产品": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "04": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "以抖": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "音短": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "视频": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "平台": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "案例": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "商业化": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "评估": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "基础": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "高级": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "预测": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "模型": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "深入探讨": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "完整": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "指标体系": {
+      "idf": -2.5649493574615367,
+      "df": 6,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        }
+      ]
+    },
+    "构建": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "heart": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "留存": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "深度": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        }
+      ]
+    },
+    "重新": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "定义": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "rfm": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "分层": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "采用": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "最后": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "一次": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "使用": {
+      "idf": -2.5649493574615367,
+      "df": 6,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 4,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 4,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        }
+      ]
+    },
+    "app": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "时间": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "间隔": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "30": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "天数": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "次数": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "观看": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 3,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "时长": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        }
+      ]
+    },
+    "创作": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "综合": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "价值": {
+      "idf": -2.5649493574615367,
+      "df": 6,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "三个": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "维度": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "内容": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 5,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 5,
+          "doc_length": 322
+        }
+      ]
+    },
+    "生态": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "健康": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "按照": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "发布": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "平均": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "播放": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "创作者": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 3,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 3,
+          "doc_length": 322
+        }
+      ]
+    },
+    "进行": {
+      "idf": -2.5649493574615367,
+      "df": 6,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 7,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 7,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        }
+      ]
+    },
+    "赋予": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "完播率": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "互动": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "完成度": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "权重": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "确立": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "质量": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "评分": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "算法": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 4,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 6,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 4,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 6,
+          "doc_length": 322
+        }
+      ]
+    },
+    "获取": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "分布": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 3,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 3,
+          "doc_length": 322
+        }
+      ]
+    },
+    "ab": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "测试": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "分为": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "对照组": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "推荐": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 4,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 2,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 4,
+          "doc_length": 322
+        }
+      ]
+    },
+    "实验组": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "sql": {
+      "idf": -2.5649493574615367,
+      "df": 6,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "提取": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "变化": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "点击率": {
+      "idf": -2.5649493574615367,
+      "df": 6,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 5,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 5,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "15.2%": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "22.8%": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "满意度": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "18.5%": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "结果": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "推动": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "全量": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "上线": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0000_69a82eb1",
+          "tf": 1,
+          "doc_length": 305
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "得出结论": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "以及": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "当前": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "率仅": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "35%": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "新手": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "引导": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "增加": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "个性化": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "部分": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "垂直": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "领域": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "供过于求": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "需要": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "激励": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "政策": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "平衡": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "供需": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "长期": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "重点": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "发展": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "18": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "35": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "下沉": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "市场": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "获客": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "预计": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "dau": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "加强": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "腰部": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "扶持": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "关系": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "多样性": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "优先": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "理解": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "技术": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "体验": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "淘宝": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "广告投放": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 4,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 4,
+          "doc_length": 322
+        }
+      ]
+    },
+    "01": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "02": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "所用": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "方法": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "相关性": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "对比": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "工具": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "mysql": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "excel": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 3,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 3,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        }
+      ]
+    },
+    "python": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "时代背景": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "成为": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "互联网": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "各个": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "行业": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "推广": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "主流": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "取决于": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "带来": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "多少": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "就要": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "流量": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "因此": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "如何": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "广告": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 8,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 8,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        }
+      ]
+    },
+    "精准": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "投放": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 3,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 3,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        }
+      ]
+    },
+    "提高": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "进而": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "实现": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "极为重要": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "描述": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "阿里巴巴": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "提供": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "预估": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "集中": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "随机抽样": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "114": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "天内": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "点击": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "日志": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "2600": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "万条": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "记录": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "构成": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "院士": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "样本": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "骨架": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "预处理": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "随机": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "200": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "用于": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "后续": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "缺失": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "处理": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "knn": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "整理": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "合并": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "填充": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "主要": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "画像": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "选择": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "关键": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "特征": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        }
+      ]
+    },
+    "属性": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "拆解": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "时序": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        }
+      ]
+    },
+    "商品": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 3,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 3,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        }
+      ]
+    },
+    "资源": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "分类": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "汇总": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "由于": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "影响": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "总体": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "可以": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        }
+      ]
+    },
+    "受用": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "欢迎": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "筛选": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "工作": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "技能": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "熟悉": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 4,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 4,
+          "doc_length": 92
+        }
+      ]
+    },
+    "操作": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        }
+      ]
+    },
+    "语句": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        }
+      ]
+    },
+    "能够": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "编写": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "查询": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 2,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 2,
+          "doc_length": 92
+        }
+      ]
+    },
+    "多表": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "连接": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "tebleau": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "创建": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "交互式": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "图标": {
+      "idf": -0.587786664902119,
+      "df": 4,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0001_aa43ac0f",
+          "tf": 1,
+          "doc_length": 322
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "常用": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "敏感": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "利用": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "逻辑思维": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "解决": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "业务流程": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "成本": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "节约": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "语言": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "运用": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "科学计算": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "数据处理": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "numpy": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "pandas": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "执行力": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "认真负责": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "具有": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "团队精神": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "善于": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    },
+    "沟通": {
+      "idf": 0.5877866649021191,
+      "df": 2,
+      "postings": [
+        {
+          "chunk_id": "6bb0e812_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        },
+        {
+          "chunk_id": "bcd2e609_0002_5cbf9cec",
+          "tf": 1,
+          "doc_length": 92
+        }
+      ]
+    }
+  }
+}
