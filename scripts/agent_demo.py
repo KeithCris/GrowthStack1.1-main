@@ -4,7 +4,7 @@
 Runs the agent locally without MCP: useful for testing and debugging.
 
 Usage:
-    python scripts/agent_demo.py --query "梁一恒的基本信息是什么"
+    python scripts/agent_demo.py --query "YANG的基本信息是什么"
     python scripts/agent_demo.py --query "What is RAG?" --collection default
 """
 
